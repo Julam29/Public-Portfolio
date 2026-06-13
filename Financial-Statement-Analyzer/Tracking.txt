@@ -1,0 +1,104 @@
+Before:
+	Nio - 8/10
+	AMD - 8/10
+	NVIDIA - 8.5/10
+	AMZN - 9/10
+	Intel Q2 - 6/10
+	Intel Q4 - 8/10
+	PayPal - 8/10
+
+
+
+
+After (Better role description):
+	Nio - 8/10
+	AMD - 8/10
+	NVIDIA - 10/10
+	AMZN - 8/10
+	Intel Q2 - 6/10
+	Intel Q4 - 7/10
+	PayPal - 8/10
+
+
+After (Role change 2.0):
+	Intel Q2 - 4/10
+	Intel Q4 - 7/10
+	PayPal - 8/10
+
+
+After After:
+	Nio - 7.5, 8.5, 9/10
+	Intel Q4 - 7/10
+	Intel Q2 - 4-5/10
+
+
+Fixed Filtering by Paragraphs:
+	Nio: 7.5/10
+	Intel Q4: 7.5/10
+	Intel Q2: 4.5/10
+	NVIDIA: 8.5/10
+	AMD: 9/10
+	Ivanhoe: 7.5/10
+	Barrick: 8.5/10
+	PayPal: 8.5/10
+	Teck: 8.5/10
+	Amazon: 9.5/10
+	Tesla: 4.8 - 7.8/10????
+
+After implementing temperature + more definite gradings:
+	Tesla: 7.5, 7.5
+	Intel Q2: 5
+	Intel Q4: 7.5
+
+Treat declining growth as bearish:
+	Intel Q2: 5.5
+	Intel Q4: 6.5
+	Tesla: 6.5
+	PayPal: 7.5
+	Amazon: 8.5
+	AMD: 8.5
+	NVIDIA: 9.2
+	Ivanhoe: 7.5
+	Barrick: 8.5
+	Teck: 8.5
+
+Structured Format:
+	Intel Q2: 4
+	Intel Q4: 5
+	Tesla: 6
+	Amazon: 8.5
+	AMD: 8.5
+
+
+JSON Strucutred:
+	PayPal: 4.0
+	Intel Q4: 4.0
+	Intel Q2: 4.0
+	Tesla: 4.0
+	AMD: 4.0.....
+	NVIDIA: 4.0
+
+
+JSON Structured FIXED:
+	NVIDIA:	 	9.0
+	PayPal: 	7.0
+	Intel Q2: 	4.0
+	Intel Q4: 	4.0
+	AMD: 		8.5
+	Ivanhoe: 	7.5
+	Barrick: 	7.5
+	Amazon: 	8.0
+	Adobe: 		8.5
+
+
+JSON Fixed V3
+	PayPal: 4.0
+	Barrick: 8.0
+	Intel Q2: 4.0
+	Intel Q4: 4.0
+	AMD: 7.0
+	NVIDIA: 9.0
+	Amazon: 8.0
+	Ivanhoe: 7.2
+	Adobe: 8.5
+
